@@ -37,6 +37,7 @@ Phase 3: The "Face" (Vue.js Frontend)
 
 
 ---
+'''bash
 
 open-data-search-engine/
 │
@@ -88,6 +89,7 @@ open-data-search-engine/
 ├── LICENSE
 └── README.md                    # The main entry point & Installation Guide
 
+'''
 
 ---
 
