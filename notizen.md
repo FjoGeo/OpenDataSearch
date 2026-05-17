@@ -1,6 +1,8 @@
 # Multi-Database Open Data Search Engine
 
---- 
+---
+
+Test
 
 1. Ordnerstruktur
 2. Systemdesign image
@@ -35,8 +37,8 @@ Phase 3: The "Face" (Vue.js Frontend)
 
     Result Rendering: Use a v-for loop to display the JSON results as beautiful cards.
 
-
 ---
+
 ```bash
 
 open-data-search-engine/
@@ -92,4 +94,3 @@ open-data-search-engine/
 ```
 
 ---
-
