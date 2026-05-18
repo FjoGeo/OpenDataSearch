@@ -2,11 +2,8 @@
 
 ---
 
-1. Ordnerstruktur
-2. Systemdesign image
-3. To Do
-4. Installation
-5. Docker --> Java --> Vue ?
+    - CSV oder Datenbank (PostgreSQL) mit logstash --> Installation --> auch docker?
+    - Docker --> Java --> Vue ?
 
 ---
 
