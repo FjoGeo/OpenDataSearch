@@ -2,8 +2,15 @@
 
 ---
 
+    - Mit Kibana Tabelle anschauen
+        - settings und mappings?
     - CSV oder Datenbank (PostgreSQL) mit logstash --> Installation --> auch docker?
     - Docker --> Java --> Vue ?
+
+---
+
+Download driver for PostgreSQL
+https://jdbc.postgresql.org/download/
 
 ---
 
